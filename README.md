@@ -1,10 +1,10 @@
-# 🚗 Ride Matching Service (Spring Boot)
+#  Ride Matching Service (Spring Boot)
 
 A backend system for efficiently matching ride requests with the nearest available drivers. This service is designed with in-memory storage and thread safety, and supports all core ride-hailing features.
 
 ---
 
-## 📦 Features
+##  Features
 
 - Register and update drivers with location
 - Request a ride and auto-assign nearest available driver
@@ -16,7 +16,7 @@ A backend system for efficiently matching ride requests with the nearest availab
 
 ---
 
-## ▶️ How to Run
+## ▶ How to Run
 
 Make sure you're in the project root directory, then run:
 
@@ -185,9 +185,3 @@ src
 
 ---
 
-## 🚀 Future Enhancements
-
-- Add a real database (e.g., PostgreSQL)
-- Haversine formula for geospatial distances
-- Pagination, filtering
-- Swagger/OpenAPI documentation
